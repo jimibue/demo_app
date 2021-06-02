@@ -13,7 +13,7 @@
 a. remove the  .ruby-version file `rm -r .ruby-version `
 b. remove the  Gemfile.lock `rm -r Gemfile.lock `
 c. in line 4 of Gemfile delete this line `ruby '2.7.2'`
-d. proceded with steps below
+d. proceed with steps below
 
 1. bundle
 2. rename database, in database.yml find and replace `change_db_name_here` to <app_name_here>
